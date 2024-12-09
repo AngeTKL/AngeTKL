@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @AngeTKL
-- 👀 I’m interested in genetic epidemiology
-- 🌱 I’m currently learning MR and PRS
-- 💞️ I’m looking to collaborate on cardiovascular diseases, genetic epidemiology projects in Africa
+- 👀 I’m passionate about genetic epidemiology, particularly exploring genetic factors that influence cardiovascular diseases, stroke, atrial fibrillation (AF), and carotid plaques.
+- 🌱  Currently learning: I’m diving into Mendelian Randomization (MR), drug target-MR, and Polygenic Risk Scores (PRS).
+- 💞️ Looking to collaborate: I’m always open to collaboration on genetic epidemiology projects—especially focused on cardiovascular diseases.
 - 📫 How to reach me by email tchosange@yahoo.fr
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- I share some bioinformatics codes that I use for genetic data analysis—feel free to explore, reach me and collaborate!
+⚡ Fun fact: With a background in medicine, I’m deeply passionate about bioinformatics and pathway analysis. I am particularly keen to work on African genetic data to explore health disparities and improve medical insights.
 
 <!---
 AngeTKL/AngeTKL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
